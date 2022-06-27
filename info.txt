@@ -1,0 +1,33 @@
+// income : {
+    //     type : String,
+    //     required : true,
+    // },
+
+    // taxStatus : {
+    //     type : String,
+    //     enum: ["New", "Paid", "Delay"],
+    //     required : true
+    // },
+
+    // dueTaxAmount : {
+    //     type : Number,
+
+    // },
+
+
+    {
+    "title" : "Mr",
+    "name" : "Shreyash",
+    "email" : "spatel1997@gmail.com",
+    "phone": "8280909825",
+    "password":"patel@972",
+    "role" : "admin"
+   
+
+}
+
+ console.log( userCreated.taxPaidTill_FY.toString().split(" ")[3])
+            // let str = x.split(" ")
+            // console.log(str[3])
+
+ 
